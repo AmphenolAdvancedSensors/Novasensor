@@ -1,4 +1,4 @@
 # Novasensor
-Code for Digital Communicating to NPA-201 Barometric Pressure Sensors
+Code for I2C Communicating to NPA-700 Series Pressure Sensors
 
-Take care, these 3.3V sensors do not respond well to 5V!
+Demonstrates conversion of bit output to pressure value over serial bus.
